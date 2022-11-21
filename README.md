@@ -1,0 +1,5 @@
+connect to psql on terminal by running the command "psql -U postgres"
+enter your password "postgres"
+then create a database by running the command "create database plantsdb"
+connect to the database by running "\c plantsdb"
+then to populate and create tables as you see fit, import the sql file from terminal while connected to the database, by running "\i file path"
